@@ -1,2 +1,9 @@
-# Zabbix
-Playing Zabbix with Python 
+# 🤖 Zabbix Automation Scripts
+
+Python scripts to automate Zabbix 7.0 LTS monitoring tasks.
+
+## 🚀 Quick Start
+
+```bash
+git clone https://github.com/Ahmad-R-M-Ne/Zabbix.git
+pip install -r requirements.txt
