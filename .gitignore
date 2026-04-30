@@ -1,4 +1,16 @@
-# gitignore Files:
+# gitignore File:
+# Zabbix Repository
 
 desktop.ini
+
 __pychache__/
+build/
+venv/
+dist/
+.vscode/
+.idea/
+
+*.log
+*.pyc
+
+.env
