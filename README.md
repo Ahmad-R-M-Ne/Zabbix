@@ -1,7 +1,7 @@
 ![Zabbix Logo](assets/Zabbix_Logo_1.jpeg)
 # 🤖 Zabbix Automation Scripts
 
-Python scripts to automate Zabbix monitoring tasks.
+## Python scripts to automate Zabbix monitoring tasks.
 
 Using Python with the Zabbix API allows automation of monitoring operations through
 JSON-RPC requests. The script first authenticates to the Zabbix server using `user.login`
@@ -18,7 +18,7 @@ Templates can be exported with `configuration.export` into import-ready XML file
 All outputs should be saved into reports or export directories instead of printing large data in the terminal.
 Finally, the script should logout using `user.logout` to invalidate the active API session.
 
-![Zabbix Logo](assets/Zabbix_Logo_2.png)
+![Zabbix Logo](assets/Zabbix_Logo_3.png)
 
 ## 🚀 Quick Start
 
